@@ -1,8 +1,7 @@
 # HiddenEye
 
 ### Notes:- 
-***This is a ngrok Error fixed version of HiddenEye , also added one more feature [Masked ulr]
-only works in local host ***
+***This is a ngrok Error fixed version of HiddenEye , also added one more feature [Masked ulr] only works in localhost***
         <br>
         
 ### [+] Installation
